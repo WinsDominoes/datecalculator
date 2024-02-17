@@ -20,8 +20,7 @@ Check out `app-release.apk` over at the [GitHub Releases](https://github.com/Win
 ### Windows
 Check out `dateapp-windows-x86_64-setup.exe ` over at the [GitHub Releases](https://github.com/WinsDominoes/dateapp/releases/) page. 
 ### MacOS
-Check out `
-dateapp-macos-universal.dmg` over at the [GitHub Releases](https://github.com/WinsDominoes/dateapp/releases/) page. 
+Check out `dateapp-macos-universal.dmg` over at the [GitHub Releases](https://github.com/WinsDominoes/dateapp/releases/) page. 
 ### Linux
 
 #### tar.gz
@@ -31,11 +30,11 @@ Check out `dateapp-linux-x64.tar.gz ` over at the [GitHub Releases](https://gith
 Check out Amy's [https://github.com/AtiusAmy/net.winscloud.DateCalculator](https://github.com/AtiusAmy/net.winscloud.DateCalculator) for Flatpak version.
 
 ### Web
-Check out [https://datecalculator.winscloud.net](https://datecalculator.winscloud.net)
+Check out [https://dateapp.winscloud.net](https://dateapp.winscloud.net)
 
 ## Build
 - Install [Flutter](https://docs.flutter.dev/get-started/install)
-- Clone repository `git clone https://github.com/WinsDominoes/dateapp.git`
+- Clone repository `git clone https://git.winscloud.net/winsdominoes/dateapp.git`
 - Install required dependencies `flutter pub get`
 - Run one of these commands for platforms
   
@@ -47,5 +46,5 @@ Check out [https://datecalculator.winscloud.net](https://datecalculator.winsclou
 | MacOS          | `flutter build macos`   |
 
 ## Credits
-- [WinsDominoes (Win)](https://github.com/WinsDominoes) - Developer
+- [WinsDominoes (Win)](https://git.winscloud.net/winsdominoes) Developer
 - [AtiusAmy (Amy)](https://github.com/AtiusAmy) - Research & Development / Quality Control
